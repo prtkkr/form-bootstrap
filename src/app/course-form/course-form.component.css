@@ -1,0 +1,14 @@
+.form-control.ng-invalid.ng-touched.ng-dirty {
+    border: 2px solid red;
+}
+
+form {
+    border: solid;
+    border-radius: 20px;
+    border: 2px solid gray;
+    padding: 20px;
+    
+    width: 400px;
+    margin: 0 auto;
+    vertical-align: middle;
+}
